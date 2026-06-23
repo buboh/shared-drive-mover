@@ -1,6 +1,6 @@
 {
   "runtimeVersion": "V8",
-  "timeZone": "Europe/Prague",
+  "timeZone": "Europe/Vienna",
   "dependencies": {
     "enabledAdvancedServices": [{
       "userSymbol": "Drive",
